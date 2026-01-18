@@ -370,33 +370,22 @@ This structured flow makes the system intuitive while clearly demonstrating how 
 
 ---
 
-## 🖼 Screenshot Section
+## 🖼 Screenshots
 
-> Add your program screenshots here after running the project.
+### Main Menu
+![Main Menu](Screenshots/mainMenu.png)
 
-You can include:
+### Shortest Path (Dijkstra)
+![Shortest Path](Screenshots/shortestPath.png)
 
-* Main menu interface
-* Transport system demo (shortest path result)
-* Hash search result (e.g., CNIC or medicine lookup)
-* Heap ranking output
-* Tree traversal display
+### Hash Table Lookup
+![Hash Lookup](Screenshots/hashLookup.png)
 
-Example format once you add images:
+### Heap Ranking System
+![Heap Ranking](Screenshots/heapRanking.png)
 
-```
-![Main Menu](screenshots/main_menu.png)
-![Shortest Path Demo](screenshots/dijkstra_demo.png)
-![Heap Ranking](screenshots/heap_ranking.png)
-```
-
-Create a folder in your repo named:
-
-```
-/screenshots
-```
-
-Then place your images there.
+### Tree Hierarchy Display
+![Tree Structure](Screenshots/treeStructure.png)
 
 ---
 
