@@ -319,38 +319,6 @@ Compatible with:
 
 ---
 
-## 💡 Why This Project Is Portfolio-Level
-
-This project stands out because:
-
-* It is not toy-level DS usage
-* Everything is manually implemented
-* Data structures are used logically, not forcefully
-* Architecture is modular and scalable
-* Demonstrates real understanding of:
-
-  * Memory
-  * Performance
-  * Abstraction
-  * Design
-
-This makes it excellent for:
-
-* Technical interviews
-* GitHub portfolio
-* Academic evaluation
-* DS mastery demonstration
-
----
-
-## 📌 Short Project Description (GitHub / LinkedIn)
-
-> **A modular Smart City simulation built in C++, showcasing real-world implementation of graphs, trees, hashing, heaps, stacks, and queues through a scalable, console-based system.**
-
-You can use this as your GitHub repo description and LinkedIn project summary.
-
----
-
 ## 🧭 Menu Flow Walkthrough (User Experience)
 
 The system follows a structured, interactive menu-driven flow that reflects real-world modular software.
@@ -367,7 +335,7 @@ The system follows a structured, interactive menu-driven flow that reflects real
    * Commercial Sector
    * Population & Housing
    * Public Facilities
-   * Airport / Railway (optional)
+   * Airport / Railway
 
 3. Each sector opens its own dedicated menu, for example:
 
