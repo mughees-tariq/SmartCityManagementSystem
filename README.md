@@ -58,7 +58,7 @@ No built-in replacements like `unordered_map`, `priority_queue`, etc. are used w
 
 ---
 
-## 🗂 Actual Project Structure (From Your Code)
+## 🗂 Actual Project Structure
 
 ```
 SmartCityManagementSystem/
@@ -88,7 +88,7 @@ SmartCityManagementSystem/
 
 ---
 
-## 🔍 Deep Implementation Details (Based on Code)
+## 🔍 Deep Implementation Details
 
 ### 1. Graph System (`Graph.h`)
 
