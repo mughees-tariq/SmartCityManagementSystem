@@ -403,9 +403,7 @@ Then place your images there.
 ## 👨‍💻 Developer
 
 **Muhammad Mughees Tariq Khawaja**
-Computer Science Student | C++ Developer | Data Structures Enthusiast
-
-LinkedIn: [www.linkedin.com/in/mugheestariq]
+[LinkedIn](https://linkedin.com/in/mugheestariq)
 
 ---
 
