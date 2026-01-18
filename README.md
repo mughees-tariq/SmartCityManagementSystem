@@ -379,7 +379,7 @@ This structured flow makes the system intuitive while clearly demonstrating how 
 
 ### Shortest Path (Dijkstra)
 <p align="center">
-  <img src="Screenshots/shortestPath.png" width="600" height="550"/>
+  <img src="Screenshots/shortestPath.png" width="600" height="700"/>
 </p>
 
 ### Hash Table Lookup
