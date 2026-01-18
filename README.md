@@ -18,7 +18,7 @@ The project integrates:
 * 🛒 Commercial & Malls
 * 🌳 Public Facilities
 * 🏘 Population & Housing
-* ✈️ Airport & Railway (optional modules implemented)
+* ✈️ Airport & Railway
 
 This is not a mock demo — it is a **full DS engineering project**.
 
