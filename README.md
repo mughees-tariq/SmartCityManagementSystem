@@ -374,27 +374,27 @@ This structured flow makes the system intuitive while clearly demonstrating how 
 
 ### Main Menu
 <p align="center">
-  <img src="Screenshots/mainMenu.png" width="600" height="350"/>
+  <img src="Screenshots/mainMenu.png" width="600" height="550"/>
 </p>
 
 ### Shortest Path (Dijkstra)
 <p align="center">
-  <img src="Screenshots/shortestPath.png" width="600" height="350"/>
+  <img src="Screenshots/shortestPath.png" width="600" height="550"/>
 </p>
 
 ### Hash Table Lookup
 <p align="center">
-  <img src="Screenshots/hashLookup.png" width="600" height="350"/>
+  <img src="Screenshots/hashLookup.png" width="600" height="550"/>
 </p>
 
 ### Heap Ranking System
 <p align="center">
-  <img src="Screenshots/heapRanking.png" width="600" height="350"/>
+  <img src="Screenshots/heapRanking.png" width="600" height="550"/>
 </p>
 
 ### Tree Hierarchy Display
 <p align="center">
-  <img src="Screenshots/treeStructure.png" width="600" height="350"/>
+  <img src="Screenshots/treeStructure.png" width="600" height="550"/>
 </p>
 
 ---
