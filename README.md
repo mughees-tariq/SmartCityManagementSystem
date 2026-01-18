@@ -400,12 +400,12 @@ Then place your images there.
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Developer
 
-**Mughees Tariq**
+**Muhammad Mughees Tariq Khawaja**
 Computer Science Student | C++ Developer | Data Structures Enthusiast
 
-GitHub: [https://github.com/mughees-tariq](https://github.com/mughees-tariq)
+LinkedIn: [www.linkedin.com/in/mugheestariq]
 
 ---
 
